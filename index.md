@@ -17,4 +17,11 @@ http://www.biology.pitt.edu/<br/>
  
 This is a repository for information about BIOSCI 1130 Evolution, taught at the University of [Pittsburgh Department of Biological Sciences](http://www.biology.pitt.edu/) by Dr. Nathan Brouwer.
 
+### My evolution coure-prep resources
+
+A somewhat organized list of resources is [here.](pages/evolution_resources.html)
+
+### Non-evolution related resrouces
+
 * [Resources for building pages with GitHub Pages](pages/github_pages_info.html)
+* Basic [git commands](pages/git_commands.html)
